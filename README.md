@@ -44,7 +44,6 @@ This study provides **behavioral affect annotations** and stimulus-related data 
 
 **Folder:** `study I (listening)/`
 
----
 
 ### Study II – Closed-loop affective BCI experiment
 **Purpose:** evaluate a **closed-loop affective BCI** that adapts algorithmic music generation based on the user’s brain state, aiming at emotion mediation.
