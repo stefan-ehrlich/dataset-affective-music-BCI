@@ -19,13 +19,17 @@ Documentation for each study (protocol, data format, variables, etc.) is include
 
 ## Repository structure
 
+```text
 dataset-affective-music-BCI/
 ├── study I (listening)/
-│ └── ... documentation + data files
+│   ├── README.md
+│   ├── data/
+│   └── ...
 ├── study II (BCI)/
-│ └── ... documentation + data files
+│   ├── README.md
+│   ├── data/
+│   └── ...
 └── README.md
-
 
 ---
 
