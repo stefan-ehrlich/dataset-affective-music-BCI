@@ -22,12 +22,10 @@ Documentation for each study (protocol, data format, variables, etc.) is include
 ```text
 dataset-affective-music-BCI/
 ├── study I (listening)/
-│   ├── README.md
-│   ├── data/
-│   └── ...
+│   ├── data_all_participants.mat
 ├── study II (BCI)/
-│   ├── README.md
-│   ├── data/
+│   ├── s01
+│   ├── s02
 │   └── ...
 └── README.md
 ```
