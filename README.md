@@ -24,9 +24,11 @@ dataset-affective-music-BCI/
 ├── study I (listening)/
 │   ├── data_all_participants.mat
 ├── study II (BCI)/
-│   ├── s01
-│   ├── s02
+│   ├── P01      # EEG adn meta data of participant 1
+│   ├── P02      # EEG adn meta data of participant 2
 │   └── ...
+├── study_I_documentation.pdf
+├── study_II_documentation.pdf
 └── README.md
 ```
 
